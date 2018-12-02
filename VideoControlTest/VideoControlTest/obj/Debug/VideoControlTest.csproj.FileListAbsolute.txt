@@ -1,0 +1,15 @@
+C:\Users\u0986438\Documents\Visual Studio 2017\Projects\VideoControlTest\VideoControlTest\bin\Debug\VideoControlTest.exe.config
+C:\Users\u0986438\Documents\Visual Studio 2017\Projects\VideoControlTest\VideoControlTest\bin\Debug\VideoControlTest.exe
+C:\Users\u0986438\Documents\Visual Studio 2017\Projects\VideoControlTest\VideoControlTest\bin\Debug\VideoControlTest.pdb
+C:\Users\u0986438\Documents\Visual Studio 2017\Projects\VideoControlTest\VideoControlTest\bin\Debug\Interop.WMPLib.dll
+C:\Users\u0986438\Documents\Visual Studio 2017\Projects\VideoControlTest\VideoControlTest\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\u0986438\Documents\Visual Studio 2017\Projects\VideoControlTest\VideoControlTest\obj\Debug\VideoControlTest.csprojResolveAssemblyReference.cache
+C:\Users\u0986438\Documents\Visual Studio 2017\Projects\VideoControlTest\VideoControlTest\obj\Debug\Interop.WMPLib.dll
+C:\Users\u0986438\Documents\Visual Studio 2017\Projects\VideoControlTest\VideoControlTest\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\u0986438\Documents\Visual Studio 2017\Projects\VideoControlTest\VideoControlTest\obj\Debug\VideoControlTest.csproj.ResolveComReference.cache
+C:\Users\u0986438\Documents\Visual Studio 2017\Projects\VideoControlTest\VideoControlTest\obj\Debug\VideoControlTest.Form1.resources
+C:\Users\u0986438\Documents\Visual Studio 2017\Projects\VideoControlTest\VideoControlTest\obj\Debug\VideoControlTest.Properties.Resources.resources
+C:\Users\u0986438\Documents\Visual Studio 2017\Projects\VideoControlTest\VideoControlTest\obj\Debug\VideoControlTest.csproj.GenerateResource.cache
+C:\Users\u0986438\Documents\Visual Studio 2017\Projects\VideoControlTest\VideoControlTest\obj\Debug\VideoControlTest.csproj.CoreCompileInputs.cache
+C:\Users\u0986438\Documents\Visual Studio 2017\Projects\VideoControlTest\VideoControlTest\obj\Debug\VideoControlTest.exe
+C:\Users\u0986438\Documents\Visual Studio 2017\Projects\VideoControlTest\VideoControlTest\obj\Debug\VideoControlTest.pdb
